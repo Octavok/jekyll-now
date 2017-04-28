@@ -4,3 +4,7 @@ title: Sobre la razón
 ---
 
 Esto es una prueba.
+
+![_config.yml]({{ site.baseurl }}/images/config.png)
+
+bye
