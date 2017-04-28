@@ -7,6 +7,9 @@ title: NEW BLOG
 
 Ando calando este show, so be patient.
 
-![hi]({{ site.baseurl }})
+![]({{ site.baseurl }})
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Tenía años sin escribir en internet. Y justo hace unos días mi jefe me ha pedido que aprenda a usar GitHub. So, aqui estoy.
+Ya veré qué onda con el tipo de información que compartiré o__o'
+
+O.C.
