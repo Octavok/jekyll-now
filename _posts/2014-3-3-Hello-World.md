@@ -3,7 +3,7 @@ layout: post
 title: NEW BLOG
 ---
 
-[hi](https://media.giphy.com/media/eOs8UsEAomIBa/giphy.gif)
+(https://media.giphy.com/media/eOs8UsEAomIBa/giphy.gif)
 
 Ando calando este show, so be patient.
 
