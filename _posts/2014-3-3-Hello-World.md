@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Queeeee peeeedeeeee!!!!
+title: NEW BLOG
 ---
+
+https://media.giphy.com/media/eOs8UsEAomIBa/giphy.gif
 
 Ando calando este show, so be patient.
 
