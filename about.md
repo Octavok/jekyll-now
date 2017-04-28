@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-Developer, pizza maker, emotional intelligence enthusiast and old school videogame player.
+Software developer, pizza maker, emotional intelligence enthusiast and old-school videogame player. Also, jalisquillo.
 
 ### Contact me
 
